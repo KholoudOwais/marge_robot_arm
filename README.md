@@ -1,4 +1,4 @@
-# marge_robot_arm
+# robot_arm_installation
 
 ## Robot arm installation guide
   - Start with base and plase the protruding side of the base on the ground.
